@@ -19,8 +19,8 @@ I am very motivated to become QA.
 * SCRUM
 * API
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 10.07.2024
-ISTQB FL 12.2022
+* Szkolenie Indywidualne tester manualny 10.07.2024
+* ISTQB FL 12.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * Szkolenie "Zostań Testerem" - Sii Polska 
