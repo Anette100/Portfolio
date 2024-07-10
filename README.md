@@ -14,7 +14,7 @@ I am very motivated to become QA.
 * Creating test cases
 * Reporting bugs
 * Creating bug reports
-* Analitical skills (application requierments)   
+* Analytical skills (application requirements)   
 * SQL
 * SCRUM
 * API
