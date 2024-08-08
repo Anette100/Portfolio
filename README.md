@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am very motivated to become QA.
+I am very motivated to become a software tester. I am keen on details and I always meet the deadlines. I am constantly learning in order to effectively contribute to the QA community.  
 ## TOOLS
 * Jira
 * TestLink
