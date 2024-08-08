@@ -22,7 +22,7 @@ I am very motivated to become a software tester. I am keen on details and I alwa
 * Szkolenie Indywidualne tester manualny 10.07.2024
 * ISTQB FL 12.2022
 ## COURSES
-* Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Szkolenie Indywidualne tester manualny - Waldemar Szafraniec
 * Szkolenie "Zostań Testerem" - Sii Polska 
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
